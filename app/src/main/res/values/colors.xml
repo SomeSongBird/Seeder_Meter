@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="space_sparkle">#415D75</color>
+    <color name="navy_blue">#333366</color>
+    <color name="complementary_brown">#757341</color>
+    <color name="eggshell_blue">#9EC6C2 </color>
+    <color name="eggshell">#F3F0DF</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
