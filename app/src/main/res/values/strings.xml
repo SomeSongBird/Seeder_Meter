@@ -2,32 +2,9 @@
     <string name="app_name">Seeder Meter</string>
     <string name="version">1.1</string>
 
-    <string name="search">Search Employee By ID</string>
-    <string name="update">Update an Employee Record</string>
-    <string name="create">Enter a New Employee</string>
-    <string name="delete">Remove an Employee From the System</string>
-    <string name="about">Get Information About the App</string>
-
-    <string name="sensor_num">Enter Employee ID</string>
-    <string name="retrieve_button">Retrieve by ID</string>
-    <string name="first">First Name</string>
-    <string name="last">Last Name</string>
-    <string name="hire">Hire Date</string>
-    <string name="birth">Birth Date</string>
-
-    <string name="updateComplete">Successfully Updated Employee Record!</string>
-    <string name="updateFailed">Failed to Update Employee Record!</string>
-
-    <string name="createIntro">Enter the Employee\'s Information</string>
-    <string name="create_success">Successfully Created Employee Record</string>
-
-    <string name="delete_success">Successfully Removed Employee Record</string>
-    <string name="delete_button">Remove Employee</string>
-    <string name="delete_confirmation">Are you sure you want to remove this employee?</string>
-
     <string name="author">Christopher Ferrie</string>'
     <string name="ghIntro">Check out the github repository at: </string>
-    <string name="github">https://github.com/SomeStupidSongBird/Employee-Resolution</string>
+    <string name="github">https://github.com/SomeStupidSongBird/Seeder_Meter</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
