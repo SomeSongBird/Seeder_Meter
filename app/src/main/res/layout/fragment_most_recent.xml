@@ -10,6 +10,13 @@
         android:layout_margin="4dp"
         android:layout_width="match_parent"
         android:layout_height="match_parent">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Most recent data pulled"
+            android:textAlignment="center"
+            android:layout_margin="10dp"/>
         <TableRow
             android:layout_margin="4dp"
             android:layout_width="match_parent"
